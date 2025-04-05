@@ -1,5 +1,5 @@
 {
-    "name": "andrew/mvc",
+    "name": "andrewphplaravel/mvc",
     "description": "mvc",
     "autoload": {
         "psr-4": {
