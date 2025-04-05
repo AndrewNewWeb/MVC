@@ -1,0 +1,22 @@
+{
+    "name": "dev/mvc",
+    "description": "mvc",
+    "autoload": {
+        "psr-4": {
+            "Dev\\Mvc\\": "src/"
+        },
+        "files":[
+            "src/routes/web.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Andrew Adel"
+        }
+    ],
+    "require": {
+        "filp/whoops": "^2.18",
+        "jenssegers/blade": "1.4",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}

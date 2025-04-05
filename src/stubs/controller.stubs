@@ -1,0 +1,6 @@
+<?php
+namespace Dev\Mvc\controllers;
+
+class {name} extends controller{
+    
+}
