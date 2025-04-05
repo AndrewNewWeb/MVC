@@ -1,5 +1,5 @@
 {
-    "name": "dev/mvc",
+    "name": "andrew/mvc",
     "description": "mvc",
     "autoload": {
         "psr-4": {
